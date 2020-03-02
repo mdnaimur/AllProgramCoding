@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1291711710 source:g:\coding game\mew\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1262789448 c:\program files (x86)\codeblocks-ep\sdk\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

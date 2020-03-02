@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509071726 source:g:\coding game\grphics\cicleloop\ciccleloop.c
+	<graphics.h>
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

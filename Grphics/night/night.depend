@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509523417 source:c:\temp\delete\prog\night\night.c
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<stdlib.h>
+
+1266076214 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

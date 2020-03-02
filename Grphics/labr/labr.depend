@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508238760 source:g:\coding game\labr\pixwl.cpp
+	<graphics.h>
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1508113245 source:g:\coding game\labr\circle.cpp
+	<graphics.h>
+

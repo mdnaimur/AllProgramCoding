@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509069100 source:g:\coding game\rectagle loop\source coderectagale.c
+	<graphics.h>
+
+1266076214 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1510108829 source:g:\coding game\grphics\rectagle loop\source coderectagale.c
+	<graphics.h>
+
